@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Gloria+Hallelujah&family=Indie+Flower&family=Luckiest+Guy&family=Mochiy+Pop+One&family=Orbitron&family=Pacifico&family=Patrick+Hand&family=Press+Start+2P&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #293462;
+}
+
+.btn {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #d61c4e;
+  font-family: "Orbitron", sans-serif;
+}
+
+.btn:hover {
+  background-color: #ea6186;
+}
+
+#clr {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#graph {
+  /* background: no-repeat; */
+  text-align: center;
+  height: 400px;
+  margin-top: 3%;
+}
+
+h1 {
+  /* background-color: ; */
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+  font-size: 50px;
+  font-weight: bolder;
+  color: #d61c4e;
+}
+
+#newArr {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#numOfElts {
+  width: 40%;
+  height: 40px;
+  font-weight: 700;
+  text-align: center;
+  border: 5px solid #d61c4e;
+  border-radius: 5px;
+  font-family: "Orbitron", sans-serif;
+}
+
+.stroke {
+  background-color: #00ffc6;
+  display: inline-flex;
+  border-radius: 2px;
+}
